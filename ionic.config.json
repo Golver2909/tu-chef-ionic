@@ -1,0 +1,7 @@
+{
+  "name": "tu-chef",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
